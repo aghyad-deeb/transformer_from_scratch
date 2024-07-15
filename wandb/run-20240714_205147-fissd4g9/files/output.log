@@ -1,0 +1,3 @@
+loss=tensor(43.9579, grad_fn=<MeanBackward0>)
+loss=tensor(43.0800, grad_fn=<MeanBackward0>)
+loss=tensor(30.5958, grad_fn=<MeanBackward0>)

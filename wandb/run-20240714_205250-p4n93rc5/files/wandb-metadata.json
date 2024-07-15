@@ -1,0 +1,48 @@
+{
+    "os": "macOS-15.0-arm64-arm-64bit",
+    "python": "3.12.0",
+    "heartbeatAt": "2024-07-15T03:52:51.351860",
+    "startedAt": "2024-07-15T03:52:50.587663",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "git@github.com:aptl26-2024/transformer_from_scratch.git",
+        "commit": "298047c2342f05cf9ae5cfd4d1d67f1c060fdd9a"
+    },
+    "email": "th3elctronicag@gmail.com",
+    "root": "/Users/aghyaddeeb/Documents/Coding/transformer_from_scratch",
+    "host": "Aghyads-MacBook-Pro.local",
+    "username": "aghyaddeeb",
+    "executable": "/Users/aghyaddeeb/Documents/Coding/transformer_from_scratch/venv/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3204,
+        "min": 600,
+        "max": 3204
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3204,
+            "min": 600,
+            "max": 3204
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 14.345409393310547
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

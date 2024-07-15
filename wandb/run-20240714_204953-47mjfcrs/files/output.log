@@ -1,0 +1,3 @@
+loss=tensor(44.6227, grad_fn=<MeanBackward0>)
+loss=tensor(inf, grad_fn=<MeanBackward0>)
+loss=tensor(nan, grad_fn=<MeanBackward0>)
