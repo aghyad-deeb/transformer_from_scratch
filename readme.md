@@ -1,7 +1,7 @@
 # Transformer Implementation
 
 Building a transformer using only pytorch documentation and Vaswani et al., 
-2017 as reference (no tutorials were followed. Eddits from memory made to make
+2017 as reference (no tutorials were followed. Edits from memory made to make
 it a GPT).
 
 jaxtyping was used to maintain tensor dimensions. All layers implemented from 
