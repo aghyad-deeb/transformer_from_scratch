@@ -1,9 +1,11 @@
 # Transformer Implementation
 
 Building a transformer using only pytorch documentation and Vaswani et al., 
-2017 as reference (though edits from memory made to make it a GPT).
+2017 as reference (no tutorials were followed. Eddits from memory made to make
+it a GPT).
+
 jaxtyping was used to maintain tensor dimensions. All layers implemented from 
-basic python functions (no einops).
+basic pytorch functions (no einops).
 
 ## Milestones
 
